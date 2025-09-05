@@ -2,9 +2,9 @@ ACCESSION: MSBNK-EAWAG-EQ1089703
 RECORD_TITLE: AO1135; LC-ESI-QFT; MS2; CE: 45%; R=17500; [M+H]+
 DATE: 2023.01.10
 AUTHORS: C. Meyer [dtc, com], B. Beck [dtc, com], J. Hollender [dtc]
-PUBLICATION: Meyer, C., Bär, M.L., Hollender, J.. Wastewater as a Dual Indicator of Human and Environmental Exposure to Synthetic Antioxidants: Occurrence and Fate in Biological and Advanced Wastewater Treatment. doi:10.1016/j.envint.2025.109709
 LICENSE: CC BY-SA
 COPYRIGHT: Copyright (C) Eawag 2022
+PUBLICATION: Meyer, C., Bär, M.L., Hollender, J.. Wastewater as a Dual Indicator of Human and Environmental Exposure to Synthetic Antioxidants: Occurrence and Fate in Biological and Advanced Wastewater Treatment. doi:10.1016/j.envint.2025.109709
 COMMENT: CONFIDENCE standard compound
 COMMENT: UCHEM_ID 10897
 CH$NAME: AO1135
