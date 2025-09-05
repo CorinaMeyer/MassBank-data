@@ -1,8 +1,9 @@
-ACCESSION: MSBNK-Eawag-EQ01096102
+ACCESSION: Eawag/MSBNK-Eawag-EQ01096102
 RECORD_TITLE: DBDPA; LC-ESI-QFT; MS2; CE: 30%; R=17500; [M+H]+
+DATE: 2023.01.10
 AUTHORS: C. Meyer [dtc, com], B. Beck [dtc, com], J. Hollender [dtc]
 LICENSE: CC BY-SA
-COPYRIGHT: Copyright (C) Eawag 2023
+COPYRIGHT: Copyright (C) Eawag 2022
 PUBLICATION: Meyer, C., Bär, M.L., Hollender, J.. Wastewater as a Dual Indicator of Human and Environmental Exposure to Synthetic Antioxidants: Occurrence and Fate in Biological and Advanced Wastewater Treatment. doi:10.1016/j.envint.2025.109709
 COMMENT: CONFIDENCE standard compound
 COMMENT: UCHEM_ID 10961
